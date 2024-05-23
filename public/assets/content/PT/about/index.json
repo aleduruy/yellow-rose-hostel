@@ -1,0 +1,20 @@
+{
+    "title": "Sobre nós",
+    "about": { "title": "A pousada", "text": "Somos uma aconchegante pousada localizada em São Pedro da Serra (Nova Friburgo/RJ) em rua próxima ao centro. A Pousada possui 4 suítes, 1 pequena casa com dois quartos e 1 chalé anexo, além de serem muitos aconchegantes, são confortáveis, simples e em harmonia com o jardim e o riacho. As rosas amarelas simbolizam a alegria de viver, o otimismo e a energia – assim, esperamos recebe-los . A Pousada oferece: Sala de estar com TV 55’ (com TV a cabo e Sk) mais lareira. As suítes tem TV à cabo e DVD, frigobar e Sauna a vapor. Temos também um Espaço gourmet com churrasqueira, cozinha completa e forno a lenha para eventos gastronômicos e confraternizações, estacionamento e um cuidadoso atendimento a você." },
+    "place": { "title": "Onde Estamos", "text": "Lumiar e São Pedro da Serra são duas vilas que se completam oferecendo ao visitante inúmeras opções de lazer. De dia, caminhadas e cavalgadas por vales e montanhas que desvendam lugares inusitados e passeios ecológicos de puro encanto e prazer, os banhos de rio e a prática de esportes em contato direto com a natureza. Caminhar pelas ruas de uma típica vila do interior e conhecer suas lojinhas de artesanato. Tomar um café e sentir o tempo passar num ritmo bem peculiar são experiências que farão você sentir que gente e natureza dão as mãos. De noite, seus restaurantes simples e charmosos e a boa música são um convite à gula e a uma sossegada badalação." },
+    "benefits":{
+        "title": "O que oferecemos:",
+        "items": [
+            {"type": "ROOMS", "title":"Suítes de vários tamanhos", "text": "Possuímos quatro suítes que acomodam de 2 até 6 ou mais pessoas, todas muito bem equipadas para lhe receber."},
+            {"type": "HOUSES", "title":"Casa toda mobiliada", "text": "Também temos uma casa toda mobiliada, com cozinha completa e estacionamento próprio, ideal para receber grupos maiores."},
+            {"type": "TOURISM", "title":"Orientação turística", "text": "Oferecemos uma completíssima orientação turística e acompanhamento e suporte aos clientes contínuos."},
+            {"type": "PARKING", "title":"Estacionamento", "text": "Gratuito e ou público, disponível em localização próxima à propriedade."},
+            {"type": "SAUNA", "title":"Sauna a gás", "text": "Uma deliciosa sauna a gás para você curtir junto do climazinho frio de montanha."},
+            {"type": "KITCHEN", "title":"Espaço Gourmet", "text": "Um espaço reservado e totalmente equipado para você fazer churrascos ou preparar suas refeições caso queira."},
+            {"type": "TV", "title":"TV de 55' e Wi-Fi", "text": "Temos uma televisão de 55' para ser usada livremente pelos hóspedes, também dispomos de wi-fi livre."},
+            {"type": "SHOWER", "title":"Chuveirão", "text": "Um chuveirão pra você se refrescar nos dias de calor "},
+            {"type": "RELAX", "title":"Sala do Bem estar", "text": "Uma sala aconchegante com lareira, luneta e televisão para você relaxar a hora que quiser."},
+            {"type": "NATURE", "title":"Integração com a natureza", "text": "Toda a propriedade é cercada pelo belo jardim Dona Arly, a margem de um agradável riacho."}
+        ]
+    }
+}

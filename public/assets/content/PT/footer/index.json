@@ -1,0 +1,35 @@
+{
+    "links": [
+        {"text": "Sobre nós", "url": "/about"},
+        {"text": "Acomodações", "url": "/accommodations"},
+        {"text": "Turismo", "url": "/tourism"},
+        {"text": "Galeria", "url": "/gallery"}],
+    "contact": {
+        "title": "Fale Conosco",
+        "groups": [
+            {
+                "type": "PHONE",
+                "title": "Telefones / Whatsapp:",
+                "items": [
+                    {"text": "(21) 99925-0727", "url":"tel:+5521999250727"},
+                    {"text": "(21) 3734-1899", "url":"tel:+552137341899"},
+                    {"text": "(22) 99267-3950", "url":"tel:+5522992673950"}
+                ]
+            },
+            {
+                "type": "MAIL",
+                "title": "E-mail:",
+                "items": [
+                    {"text": "pousada.rosa.amarela@gmail.com", "url":"mailto:pousada.rosa.amarela@gmail.com"}
+                ]
+            },
+            {
+                "type": "ADDRESS",
+                "title": "Endereço:",
+                "items": [
+                    {"text": "Rua Juca Barroso 318, 28616-157, São Pedro da Serra, Nova Friburgo RJ", "url":"https://maps.app.goo.gl/XTeA55T5y9E1NxLy7"}
+                ]
+            }
+        ]
+    }
+}

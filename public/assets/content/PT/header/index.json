@@ -1,0 +1,12 @@
+{
+    "title":"Rosa Amarela",
+    "menu": {
+        "title": "Abrir ou fechar o menu:",
+        "items": [
+            {"text": "Sobre nós", "url": "/about"},
+            {"text": "Acomodações", "url": "/accommodations"},
+            {"text": "Turismo", "url": "/tourism"},
+            {"text": "Fale Conosco", "url": "/contact"}
+        ]
+    }
+}
